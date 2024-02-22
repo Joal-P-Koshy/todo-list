@@ -1,0 +1,17 @@
+1) create a react app 
+
+2) install dependancy's
+
+    . react bootstrap
+    . axios
+    . bootstrap cdn
+    . fontawesome cdn
+    . 
+
+3) create a folder for components.
+
+4) create a folder for services. 
+    . create a file commonApi.js for creating axios instance.
+    . create a file allApi.js 
+    
+5) react tostify for tosters.
